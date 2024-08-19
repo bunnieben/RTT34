@@ -16,4 +16,4 @@
 | December     | 200           | 5000        |
 
 **Total Sales:** 2,570 Units  
-**Total Revenue:** $64,50
+**Total Revenue:** $64,500
